@@ -2,7 +2,7 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
+      "title": "常用网站",
       "icon": "Star",
       "items": [
         {
@@ -103,7 +103,7 @@
         }
       ],
       "subCategories": [],
-      "description": "",
+      "description": "常用网站",
       "enabled": true
     },
     {
